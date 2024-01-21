@@ -13,5 +13,3 @@ async function bootstrap() {
 }
 bootstrap();
 
-//Bitfumes
-//1.41.51ss min ses
